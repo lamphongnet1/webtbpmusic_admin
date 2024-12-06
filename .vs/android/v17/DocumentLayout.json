@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Zalo\\android\\android\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|d:\\documents\\zalo\\android\\android\\android\\views\\home\\xoabaihat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|solutionrelative:android\\views\\home\\xoabaihat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|d:\\documents\\zalo\\android\\android\\android\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|solutionrelative:android\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|d:\\documents\\zalo\\android\\android\\android\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|solutionrelative:android\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|d:\\documents\\zalo\\android\\android\\android\\views\\home\\thembaihatmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|solutionrelative:android\\views\\home\\thembaihatmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|d:\\documents\\zalo\\android\\android\\android\\views\\home\\suabaihat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|solutionrelative:android\\views\\home\\suabaihat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|d:\\documents\\zalo\\android\\android\\android\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A614CA8C-B0E3-4FF5-BF75-76235923DDD2}|android\\android.csproj|solutionrelative:android\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XoaBaiHat.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Home\\XoaBaiHat.cshtml",
+              "RelativeDocumentMoniker": "android\\Views\\Home\\XoaBaiHat.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Home\\XoaBaiHat.cshtml",
+              "RelativeToolTip": "android\\Views\\Home\\XoaBaiHat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T09:14:51.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuaBaiHat.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Home\\SuaBaiHat.cshtml",
+              "RelativeDocumentMoniker": "android\\Views\\Home\\SuaBaiHat.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Home\\SuaBaiHat.cshtml",
+              "RelativeToolTip": "android\\Views\\Home\\SuaBaiHat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T08:39:27.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemBaiHatMoi.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Home\\ThemBaiHatMoi.cshtml",
+              "RelativeDocumentMoniker": "android\\Views\\Home\\ThemBaiHatMoi.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Home\\ThemBaiHatMoi.cshtml",
+              "RelativeToolTip": "android\\Views\\Home\\ThemBaiHatMoi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T08:31:54.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Documents\\Zalo\\android\\android\\android\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "android\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Documents\\Zalo\\android\\android\\android\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "android\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T08:09:08.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "android\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "android\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T07:53:17.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "android\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "D:\\Documents\\Zalo\\android\\android\\android\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "android\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswF4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T07:47:32.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

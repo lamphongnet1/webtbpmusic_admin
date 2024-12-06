@@ -1,0 +1,55 @@
+﻿@model android.Models.Baihat
+
+@{
+    ViewData["Title"] = "SuaBaiHat";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>Sửa bài hát</h1>
+<hr />
+<div class="row">
+    <div class="container">
+        <form asp-action="SuaBaiHat">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdBaiHat" />
+            <div class="form-group">
+                <label asp-for="IdDanhMuc" class="control-label"></label>
+                <input asp-for="IdDanhMuc" class="form-control" />
+                <span asp-validation-for="IdDanhMuc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TenBaiHat" class="control-label"></label>
+                <input asp-for="TenBaiHat" class="form-control" />
+                <span asp-validation-for="TenBaiHat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgayPhatHanh" class="control-label"></label>
+                <input asp-for="NgayPhatHanh" class="form-control" />
+                <span asp-validation-for="NgayPhatHanh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HinhBaiHat" class="control-label"></label>
+                <input asp-for="HinhBaiHat" class="form-control" />
+                <span asp-validation-for="HinhBaiHat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LinkBaiHat" class="control-label"></label>
+                <input asp-for="LinkBaiHat" class="form-control" />
+                <span asp-validation-for="LinkBaiHat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdNgheSi" class="control-label"></label>
+                <input asp-for="IdNgheSi" class="form-control" />
+                <span asp-validation-for="IdNgheSi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+        <button type="button" class="btn btn-danger" onclick="location.href='@Url.Action("BaiHat", "Home")'">
+            Trở lại
+        </button>
+    </div>
+</div>
+
+

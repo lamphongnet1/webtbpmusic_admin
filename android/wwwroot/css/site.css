@@ -1,0 +1,113 @@
+/* Thiết lập font cho toàn bộ trang */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9; /* Màu nền nhẹ nhàng */
+    color: #333; /* Màu chữ chính */
+    margin: 0;
+    padding: 0;
+}
+
+/* Tiêu đề lớn h1 */
+h1 {
+    font-size: 2.5em; /* Kích thước chữ tiêu đề lớn */
+    font-weight: 700; /* Làm đậm chữ */
+    color: #4CAF50; /* Màu sắc tiêu đề */
+    text-align: center; /* Căn giữa tiêu đề */
+    margin-bottom: 20px;
+}
+
+/* Tiêu đề phụ h4 */
+h4 {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #4CAF50;
+    margin-bottom: 15px;
+}
+
+/* Các nhóm input hoặc form */
+.form-group {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+
+    .btn:hover {
+        background-color: #45a049; /* Màu hover cho nút */
+        transform: translateY(-3px); /* Hiệu ứng nổi lên khi hover */
+    }
+
+/* Cảnh báo lỗi */
+.text-danger {
+    font-size: 0.9em;
+    color: #d9534f; /* Màu đỏ cho lỗi */
+    margin-top: 5px;
+}
+
+/* Liên kết */
+a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+    a:hover {
+        text-decoration: underline;
+        color: #0056b3; /* Thay đổi màu khi hover */
+    }
+
+/* Thiết lập input và textarea */
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 1em;
+    transition: border-color 0.3s ease;
+}
+
+    input:focus, select:focus, textarea:focus {
+        border-color: #4CAF50;
+        outline: none;
+    }
+
+/* Các phần tử của trang web */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.column {
+    flex: 1;
+    min-width: 250px;
+}
+
+/* Thiết kế responsive cho màn hình nhỏ */
+@media (max-width: 768px) {
+    .row {
+        flex-direction: column;
+    }
+
+    .column {
+        min-width: 100%;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    h4 {
+        font-size: 1.2em;
+    }
+}
